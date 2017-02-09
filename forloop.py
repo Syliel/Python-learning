@@ -2,5 +2,5 @@
 
 i = 1
 while i < 11:
-	print(i)
+	print('I am on %s' % i)
 	i = i + 1
